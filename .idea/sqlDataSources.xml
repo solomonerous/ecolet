@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="3c4d415a-2503-4e3e-87e8-9c065a36e068" name="MariaDB Mapping">
+      <data-sources db="b4893c97-0745-4e06-9822-5048dd1b9229" ddl="e9a3a339-bd14-467c-b22d-b5cfe64450c4" />
+      <scope>
+        <node negative="1">
+          <node kind="database" negative="1">
+            <node kind="schema" negative="1" />
+          </node>
+          <node kind="database" qname="@" />
+        </node>
+      </scope>
+    </mapping>
+    <mapping uuid="6149e197-62d9-4f10-9f17-bbf3e467e826" name="DDL data source Mapping">
+      <data-sources db="2775cf2a-282c-4af6-a05c-7918902ea838" ddl="e9a3a339-bd14-467c-b22d-b5cfe64450c4" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+    <mapping uuid="a8128284-ec97-42df-97b2-358754d95602" name="root@localhost Mapping">
+      <data-sources db="b4893c97-0745-4e06-9822-5048dd1b9229" ddl="e9a3a339-bd14-467c-b22d-b5cfe64450c4" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+    <mapping uuid="d10f0369-ba1b-4372-9cc4-30067ec4e973" name="DDL data source Mapping [2]">
+      <data-sources db="52b6e6f9-c468-43f2-82a0-5328d5f4f607" ddl="3ed9812e-a762-40e5-bf28-b7b806198911" />
+    </mapping>
+  </component>
+</project>

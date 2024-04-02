@@ -1,0 +1,10 @@
+{
+  "API_1": {
+    "url": "http://www.connect4play.com/doBusiness.do",
+    "merchantCode": "hit88vndk",
+    "desKey": "5K0tK9lG",
+    "signKey": "jZw54cAVY86oErvX",
+    "currency": "VNDK",
+    "language": "VI"
+  }
+}
